@@ -1,7 +1,21 @@
 # Physics Problems
 
 ## Problem 1
-**Rzucamy kamień z punktu początkowego (0,10) z prędkością początkową (10,0). Znajdź czas lotu oraz zasięg rzutu. Odpowiedź jest wymagana. Pojedynczy wybór.**
+**Rzucamy kamień z punktu początkowego (0,10) z prędkością początkową (10,0). Znajdź czas lotu oraz zasięg rzutu. 
+
+
+### Rozwiązanie
+
+Zadanie to jest bardzo podobne do rzutu ukośnego. Wyróżniamy dwa rodzaje ruchu: ruch poziomy i ruch pionowy. W pierwszej kolejności obliczmy czas lotu. W tym celu skorzystamy z równania ruchu jednostajnie przyspieszonego:
+
+$$y(t) = y_0 + v_{0y}t - \frac{1}{2}gt^2$$
+
+POTRZEBUJE jeszcze 
+
+$$x(t) = x_0 + v_{0x}t$$
+
+Pamietamy że $v_{0x} = 10$ oraz $v_{0y} = 0$. Z równania $y(t)$ otrzymujemy:
+
 
 ## Problem 2
 **Ciało o masie m=10 kg porusza się po okręgu z szybkością v=2 m/s. Ciało jest połączone z centrum sprężyną o długości spoczynkowej 1 m i stałej sprężystości k=10. Policz jak mocno sprężyna zostanie rozciągnięta podczas tego ruchu. Odpowiedź jest wymagana. Pojedynczy wybór.**
